@@ -14,6 +14,7 @@ O repositório está organizado em várias pastas, cada uma correspondendo a um 
 - **Módulo 2**: Introdução à Python, .NET, Java e WEB FrontEnd.
 - **Módulo 3**: Trilha Básica de Java e WEB FrontEnd.
 - **Módulo 4**: Trilha Avançada de Java e WEB FrontEnd.
+- **Módulo 5**: Atuação em projetos reais para empresas parceiras (projeto em https://github.com/danssampaio/sistema-grupo-brasileiro-frontend e https://github.com/danssampaio/sistema-grupo-brasileiro-backend).
 
 
 ## Como Navegar
